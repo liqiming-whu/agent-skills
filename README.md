@@ -21,3 +21,7 @@
 | [writer-novel-style-distiller](https://github.com/liqiming-whu/writer-novel-style-distiller) | 中文小说文风蒸馏、主角魅力分析与完结收束设计。 |
 | [operit-plugin-dev-skill](https://github.com/liqiming-whu/operit-plugin-dev-skill) | Operit 插件开发指南，分 PC 端和手机端（operit-plugin-dev-pro）两个版本。 |
 | [gpt-image-2-female-character-prompt-skill](https://github.com/liqiming-whu/gpt-image-2-female-character-prompt-skill) | 为 gpt-image-2 编写成年女性角色封面、角色卡和宣传插画的提示词。 |
+
+## 许可证
+
+[MIT](LICENSE)
