@@ -109,7 +109,7 @@ Astra 的问题主要有三类：一是把软件工程/运维术语硬套到科�
 
 **原文**：利用 MACS2 对 ChIP-seq 读段执行峰值调用，并将所得峰值区域与输入对照的覆盖度信号一并加载至基因组轨道进行可视化审查。需要指出的是，峰值数量不等于真实结合位点数量，也不能直接代表结合强度。
 
-**改写**：用 MACS2 callpeak 对 ChIP-seq reads call peak，并将 peak 与 input 的 bigWig 信号一起载入基因组 track 查看。peak 数量只能粗略反映结合位点的多少。
+**改写**：用 MACS2 callpeak 对 ChIP-seq reads call peak，并将 peak 与 input 的覆盖度信号一起载入基因组 track 查看。peak 数量只能粗略反映结合位点的多少，而且不直接反映结合强度。
 
 ---
 
