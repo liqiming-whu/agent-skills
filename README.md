@@ -7,6 +7,7 @@
 | Skill | 用途 |
 |---|---|
 | [de-astra](skills/de-astra/) | 把 gpt-6-astra 风格的科研文稿、文献报告和技术文档改成自然的科研表达：替换软件工程黑话，合并堆叠的防御性否定，领域惯用英文术语（如 track、call peak、reads）保留原文。 |
+| [astra-generator](skills/astra-generator/) | de-astra 的逆向版，娱乐向：把正常的中英文表达改写成 gpt-6-astra 腔（工程黑话、堆叠的防御性否定、流程罗列），分轻度、中度、满级三档，用于整蛊、玩梗和礼貌地反驳网友。 |
 
 ## 安装
 
